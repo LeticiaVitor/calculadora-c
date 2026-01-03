@@ -9,7 +9,7 @@ O programa funciona via terminal e permite realizar soma, subtração, multiplic
 
 Exemplo de execução no terminal:
 
-
+![Demonstração da Calculadora](assets/calculadoraimg.png)
 
 ---
 
@@ -57,3 +57,4 @@ Descrição dos Arquivos
 
 ## Licença
 Este projeto está licenciado sob a MIT License — veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+
