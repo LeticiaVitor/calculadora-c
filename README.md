@@ -19,19 +19,19 @@ Exemplo de execução no terminal:
 Clone o repositório:
 ```bash
 git clone https://github.com/LeticiaVitor/calculadora-c.git
-
+---
 Entre na pasta do projeto:
 cd nome-do-repo
 
 Compile o programa:
 gcc calculadora.c -o calculadora
-
+---
 ## Uso e Exemplos de Comando
 
 Após a compilação, execute o programa com:
 ```bash
 ./calculadora
-
+---
 ## Estrutura do Projeto
 
 calculadora-c/
@@ -48,3 +48,4 @@ calculadora-c/
 ## Licença
 
 Este projeto está licenciado sob a MIT License — veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+
